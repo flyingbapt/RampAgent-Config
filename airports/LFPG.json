@@ -1099,7 +1099,8 @@
                 "NOZ",
                 "NSZ",
                 "ITY",
-                "SEH"
+                "SEH",
+                "TGL"
             ],
             "Priority": 1
         },
@@ -1123,7 +1124,8 @@
                 "NOZ",
                 "NSZ",
                 "ITY",
-                "SEH"
+                "SEH",
+                "TGL"
             ],
             "Priority": 5
         },
@@ -1147,7 +1149,8 @@
                 "NOZ",
                 "NSZ",
                 "ITY",
-                "SEH"
+                "SEH",
+                "TGL"
             ],
             "Priority": 5
         },
@@ -1168,7 +1171,8 @@
                 "NOZ",
                 "NSZ",
                 "ITY",
-                "SEH"
+                "SEH",
+                "TGL"
             ],
             "Priority": 1
         },
@@ -1196,7 +1200,8 @@
                 "NOZ",
                 "NSZ",
                 "ITY",
-                "SEH"
+                "SEH",
+                "TGL"
             ],
             "Priority": 3
         },
@@ -1220,7 +1225,8 @@
                 "NOZ",
                 "NSZ",
                 "ITY",
-                "SEH"
+                "SEH",
+                "TGL"
             ],
             "Priority": 2
         },
@@ -1247,7 +1253,8 @@
                 "NOZ",
                 "NSZ",
                 "ITY",
-                "SEH"
+                "SEH",
+                "TGL"
             ],
             "Priority": 5
         },
@@ -1272,7 +1279,8 @@
                 "NOZ",
                 "NSZ",
                 "ITY",
-                "SEH"
+                "SEH",
+                "TGL"
             ],
             "Priority": 1
         },
@@ -1299,7 +1307,8 @@
                 "NOZ",
                 "NSZ",
                 "ITY",
-                "SEH"
+                "SEH",
+                "TGL"
             ],
             "Priority": 5
         },
@@ -1323,7 +1332,8 @@
                 "NOZ",
                 "NSZ",
                 "ITY",
-                "SEH"
+                "SEH",
+                "TGL"
             ],
             "Priority": 2
         },
@@ -1351,7 +1361,8 @@
                 "NOZ",
                 "NSZ",
                 "ITY",
-                "SEH"
+                "SEH",
+                "TGL"
             ],
             "Priority": 3
         },
@@ -1372,7 +1383,8 @@
                 "NOZ",
                 "NSZ",
                 "ITY",
-                "SEH"
+                "SEH",
+                "TGL"
             ],
             "Priority": 1
         },
@@ -1403,7 +1415,8 @@
                 "NOZ",
                 "NSZ",
                 "ITY",
-                "SEH"
+                "SEH",
+                "TGL"
             ],
             "Priority": 2
         },
@@ -1435,7 +1448,8 @@
                 "NOZ",
                 "NSZ",
                 "ITY",
-                "SEH"
+                "SEH",
+                "TGL"
             ],
             "Priority": 1
         },
@@ -1468,7 +1482,8 @@
                 "NOZ",
                 "NSZ",
                 "ITY",
-                "SEH"
+                "SEH",
+                "TGL"
             ],
             "Priority": 2
         },
@@ -1493,7 +1508,8 @@
                 "NOZ",
                 "NSZ",
                 "ITY",
-                "SEH"
+                "SEH",
+                "TGL"
             ],
             "Priority": 1
         },
@@ -1517,7 +1533,8 @@
                 "NOZ",
                 "NSZ",
                 "ITY",
-                "SEH"
+                "SEH",
+                "TGL"
             ],
             "Priority": 2
         },
