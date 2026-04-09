@@ -2118,25 +2118,6 @@
             ],
             "Priority": 1
         },
-        "E44": {
-            "Coordinates": "49.002708:2.579631:20",
-            "Remark": {
-                "C": "Push S"
-            },
-            "Code": "C",
-            "Use": "A",
-            "Schengen": false,
-            "Callsigns": [
-                "AFR",
-                "FBT",
-                "LNR",
-                "KQA",
-                "MEA",
-                "HVN",
-                "AMX"
-            ],
-            "Priority": 1
-        },
         "F02": {
             "Coordinates": "49.005458:2.573384:20",
             "Remark": {
