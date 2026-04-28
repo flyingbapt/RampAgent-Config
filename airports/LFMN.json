@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/vaccfr/RampAgent-Config/main/.github/schema/airportConfig.schema.json",
-    "version": "v1.3.9",
+    "version": "v1.4.0",
     "ICAO": "LFMN",
     "Coordinates": "43.661663:7.210765:2000",
     "Stands": {
@@ -208,9 +208,6 @@
             "Code": "BC",
             "Wingspan": 35.92,
             "Use": "CM",
-            "Countries": [
-                "LF"
-            ],
             "Callsigns": [
                 "FDX",
                 "ABR",
@@ -554,7 +551,7 @@
             "Block": [
                 "2B"
             ],
-            "Priority": 5,
+            "Priority": 10,
             "Remark": {
                 "ABCDEF": "Push W on T"
             }
@@ -645,7 +642,7 @@
                 "6A",
                 "6C"
             ],
-            "Priority": 5,
+            "Priority": 10,
             "Remark": {
                 "ABCDEF": "Push W on T"
             }
@@ -1390,8 +1387,7 @@
             "Wingspan": 28.08,
             "Use": "A",
             "Callsigns": [
-                "CCM",
-                "CLX"
+                "CCM"
             ],
             "Block": [
                 "26",
@@ -1408,6 +1404,7 @@
             "Wingspan": 68.4,
             "Use": "C",
             "Callsigns": [
+                "UPS",
                 "WAT",
                 "CLX",
                 "SWT",
@@ -1446,7 +1443,7 @@
             ],
             "Priority": 5,
             "Remark": {
-                "ABCDEF": "Push W on S Block 16-24"
+                "ABCDEF": "Push W long on S"
             }
         },
         "33B": {
@@ -2831,6 +2828,7 @@
                 "SAS",
                 "EIN",
                 "TVF",
+                "RAM",
                 "TVS",
                 "TAR",
                 "VOE",
@@ -2896,6 +2894,7 @@
                 "VOE",
                 "WZZ",
                 "FBT",
+                "RAM",
                 "EIN",
                 "LNR",
                 "DAH",
@@ -3003,6 +3002,7 @@
                 "WZZ",
                 "WMT",
                 "DAL",
+                "RAM",
                 "ETD",
                 "FIN",
                 "MEA",
@@ -3058,6 +3058,7 @@
                 "SAS",
                 "TVF",
                 "TVS",
+                "RAM",
                 "TAR",
                 "DAL",
                 "ETD",
@@ -3246,11 +3247,11 @@
             "Coordinates": "43.656383:7.203225:20",
             "Code": "CB",
             "Wingspan": 26.11,
-            "Use": "A",
+            "Use": "AP",
             "Block": [
                 "58B"
             ],
-            "Priority": 5,
+            "Priority": 10,
             "Remark": {
                 "ABCDEF": "Push E on T"
             }
