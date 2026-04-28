@@ -580,9 +580,7 @@
             "Wingspan": 51.9,
             "Use": "A",
             "Block": [
-                "2A",
-                "2B",
-                "2C"
+                "2B"
             ],
             "Priority": 10,
             "Remark": {
@@ -594,6 +592,11 @@
             "Code": "F",
             "Wingspan": 73.3,
             "Use": "A",
+            "Block": [
+                "2A",
+                "2B",
+                "2C"
+            ],
             "Priority": 10,
             "Remark": {
                 "ABCDEF": "Push W on T"
@@ -2647,8 +2650,8 @@
                 "LNR",
                 "DAH",
                 "SAS",
-                "TVF",
                 "TVS",
+                "EIN",
                 "TAR",
                 "VOE",
                 "WZZ",
@@ -2725,6 +2728,7 @@
                 "WZZ",
                 "FBT",
                 "LNR",
+                "EIN",
                 "DAH",
                 "SAS",
                 "TVF",
@@ -2825,6 +2829,7 @@
                 "LNR",
                 "DAH",
                 "SAS",
+                "EIN",
                 "TVF",
                 "TVS",
                 "TAR",
@@ -2891,6 +2896,7 @@
                 "VOE",
                 "WZZ",
                 "FBT",
+                "EIN",
                 "LNR",
                 "DAH",
                 "SAS",
@@ -3022,6 +3028,7 @@
                 "FBT",
                 "LNR",
                 "DAH",
+                "AFR",
                 "SAS",
                 "DAL",
                 "ETD",
@@ -3079,6 +3086,7 @@
                 "EZS",
                 "EZY",
                 "TAR",
+                "EIN",
                 "VOE",
                 "WZZ",
                 "FBT",
